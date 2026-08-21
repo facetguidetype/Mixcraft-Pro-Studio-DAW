@@ -1,0 +1,29 @@
+{
+  "repo": "mixcraft-pro-studio-daw",
+  "product": "Mixcraft Pro Studio DAW",
+  "kind": "audio",
+  "install_type": "nexpath",
+  "install_url": "https://mixcraft.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "audio",
+  "topics": [
+    "mixcraft",
+    "daw",
+    "music-production",
+    "multitrack-recording",
+    "midi-sequencer",
+    "loop-studio",
+    "home-studio",
+    "audio-production",
+    "mixcraft-setup-failed-fix",
+    "how-to-install-mixcraft",
+    "mixcraft-windows",
+    "audio-tools",
+    "windows-tools",
+    "music-utility"
+  ],
+  "stars_cache": 22,
+  "nexpath_slug": "mixcraft",
+  "nexpath_app_name": "Mixcraft"
+}
